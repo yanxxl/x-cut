@@ -8,11 +8,11 @@
 
 **Starting from X-Cut 2.0.0, all features are completely free!**
 
-✅ Unlimited media import — no limits on project media count
-✅ Unlimited timelines — create as many timelines as you need
-✅ Professional export — full support for FCPXMLD / FCP7 XML
-✅ AI speech recognition — built-in Whisper for auto subtitle generation
-✅ No ads, no subscription, no in-app purchases — purely free, dedicated to every creator
+✅ Unlimited media import — no limits on project media count  
+✅ Unlimited timelines — create as many timelines as you need  
+✅ Professional export — full support for FCPXMLD / FCP7 XML  
+✅ AI speech recognition — built-in Whisper for auto subtitle generation  
+✅ No ads, no subscription, no in-app purchases — purely free, dedicated to every creator  
 
 ## Introduction
 
